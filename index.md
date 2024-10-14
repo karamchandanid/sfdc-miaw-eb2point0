@@ -5,8 +5,8 @@
 
 			embeddedservice_bootstrap.init(
 				'00DOz000003NQhd',
-				'Echogear',
-				'https://legrandav--eb2point0.sandbox.my.site.com/ESWEchogear1722171999031',
+				'Github',
+				'https://legrandav--eb2point0.sandbox.my.site.com/ESWGithub1722163913919',
 				{
 					scrt2URL: 'https://legrandav--eb2point0.sandbox.my.salesforce-scrt.com'
 				}
@@ -16,4 +16,4 @@
 		}
 	};
 </script>
-<script type='text/javascript' src='https://legrandav--eb2point0.sandbox.my.site.com/ESWEchogear1722171999031/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
+<script type='text/javascript' src='https://legrandav--eb2point0.sandbox.my.site.com/ESWGithub1722163913919/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
